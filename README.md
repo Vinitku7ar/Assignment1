@@ -43,7 +43,7 @@ Color Palette: The primary yellow theme (#FFCC00 variant) provides an energetic,
 
 Component Reusability: The order cards are modularized into separate XML layout files (item_order.xml) using <include> tags and bound to individual data objects for maximum reusability.
 
-<img src="home.png" width="300"/>
+<img src="WhatsApp Image 2026-05-25 at 12.26.04 PM.jpeg" width="300"/>
 
 🚀 Getting Started
 Prerequisites
